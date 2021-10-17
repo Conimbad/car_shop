@@ -1,5 +1,5 @@
 # Vista previa:
-![alt text]())
+![alt text](http://queo-software.biz/images/preview.png)
 
 # CodeIgniter 4 Framework
 
