@@ -1,5 +1,5 @@
 # Vista previa:
-![alt text](https://sv96.ifastnet.com:2083/cpsess1653780906/viewer/home%2fqueosoft%2fimages/preview.png)
+![alt text](https://sv96.ifastnet.com:2083/cpsess1653780906/viewer/home%2fqueosoft%2fpublic_html%2fimages/preview.png))
 
 # CodeIgniter 4 Framework
 
