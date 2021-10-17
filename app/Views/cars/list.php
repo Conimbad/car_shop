@@ -1,10 +1,10 @@
 <?=$header;?>
 
 <!-- Search bar -->
-<h2>Buscar automobil:</h2>
+<h2>Buscar automóvil:</h2>
 <form action="<?= site_url('/search')?>" method="post">
   <div class="input-group mb-3 mt-3">
-    <input name="buscar" type="text" class="form-control" placeholder="Escriba la marca del automobil" aria-label="Recipient's username" aria-describedby="button-addon2">
+    <input name="buscar" type="text" class="form-control" placeholder="Escriba la marca del automóvil" aria-label="Recipient's username" aria-describedby="button-addon2">
     <button class="btn btn-primary" type="submit" id="button-addon2">Buscar</button>
   </div>
 </form>
